@@ -1,6 +1,6 @@
 Author-Shashank Mishra
 
-This is My First Project
+This is My First Git Repository
 
 <!---
 shashankMis/shashankMis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
